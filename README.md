@@ -14,7 +14,7 @@ You can find the dataset in soil_measures.csv.
 
 Tools & Libraries
 Python 
-Pandas 📊
+Pandas 
 NumPy
 Scikit-learn 
 
